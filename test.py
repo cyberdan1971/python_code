@@ -1,4 +1,4 @@
 #!/usr/bin/python3
 print("Goodbye, World!")
 
-#Een kleine verandering.
+#Een kleine verandering en nog een.
